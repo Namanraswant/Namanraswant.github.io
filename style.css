@@ -1,0 +1,33 @@
+
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0 10%;
+}
+header, section, footer {
+    margin: 2em 0;
+}
+h1, h2, h3 {
+    color: #ff3c3c;
+}
+a {
+    color: #ff3c3c;
+    text-decoration: none;
+}
+ul {
+    list-style-type: square;
+}
+.project {
+    background: #1e1e1e;
+    padding: 1em;
+    margin: 1em 0;
+    border-left: 4px solid #ff3c3c;
+}
+footer {
+    text-align: center;
+    margin-top: 3em;
+    font-size: 0.9em;
+    color: #ccc;
+}
